@@ -1,0 +1,19 @@
+{
+  "name": "hotelsbackend",
+  "version": "1.0.0",
+  "description": "admin system and database for hotels",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgealexandruiancu/hotelsBackEnd.git"
+  },
+  "author": "Iancu George-Alexandru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgealexandruiancu/hotelsBackEnd/issues"
+  },
+  "homepage": "https://github.com/georgealexandruiancu/hotelsBackEnd#readme"
+}
