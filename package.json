@@ -18,7 +18,7 @@
   "homepage": "https://github.com/georgealexandruiancu/hotelsBackEnd#readme",
   "dependencies": {
     "bcrypt": "^3.0.1",
-    "mongodb": "^3.1.8",
+    "mongodb": "^2.2.33",
     "socket.io": "^2.1.1"
   }
 }
